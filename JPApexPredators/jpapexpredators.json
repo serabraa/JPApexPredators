@@ -3,8 +3,8 @@
 		"id": 1,
 		"name": "Velociraptor",
         "type": "land",
-        "latitude": 32.8236,
-        "longitude": -96.7166,
+        "latitude": 40.786185,
+        "longitude": 43.837639,
 		"movies": [
 			"Jurassic Park",
 			"The Lost World: Jurassic Park",
@@ -339,8 +339,8 @@
 		"id": 11,
 		"name": "Mosasaurus",
 		"type": "sea",
-        "latitude": 65.53627,
-        "longitude": -168.08284,
+        "latitude":  40.384228,
+        "longitude": 45.306920,
 		"movies": [
 			"Jurassic World",
 			"Jurassic World: Fallen Kingdom",
