@@ -37,7 +37,7 @@ This project demonstrates:
 
 ## 📁 Photos of the project
 <p align="center">
-  <img width="250" alt="1" src="https://github.com/user-attachments/assets/09f5eb73-3908-47bd-      9e92-e2abf6ba072b" />
+  <img width="250"alt="1" src="https://github.com/user-attachments/assets/165cbee9-8d5a-4a26-84ed-b1de56f132b4" />
   <img width="250" alt="2" src="https://github.com/user-attachments/assets/3f71c0c5-6041-41ca-a3d9-6ecdd8e321be" />
   <img width="250" alt="3" src="https://github.com/user-attachments/assets/42a521ef-6abd-486c-a41c-cf4c68defee1" />
   <img width="250" alt="4" src="https://github.com/user-attachments/assets/2371062f-3953-4d7a-99c2-e0a4557b30d7" />
